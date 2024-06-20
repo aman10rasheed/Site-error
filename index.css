@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  height: 100svb;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-color: gray;
+}
+
+.head {
+  text-align: center;
+  color: white;
+  font-size: x-large;
+}
